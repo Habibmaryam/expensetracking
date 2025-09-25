@@ -1,0 +1,4 @@
+expensetracker/
+.env
+__pycache__/
+*.pyc

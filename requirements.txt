@@ -1,0 +1,6 @@
+streamlit
+web3
+pandas
+requests
+python-dotenv
+altair
